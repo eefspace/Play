@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Eefspace</title>
+</head>
+<body>
+
+    <header>
+        <h1>eefspace</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="welcome.html">Welkom</a></li>
+            <li><a href="why.html">Waarom</a></li>
+            <li><a href="how.html">Hoe</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <h2>Hoe je als herintreder een ingenieuze software developer wordt</h2>
+
+        <section>
+            <article>
+                <h3>Het KISS-principe zonder ervaring</h3>
+                <p>Ontdek hoe je complexe problemen eenvoudig kunt benaderen, zelfs zonder eerdere ervaring.</p>
+            </article>
+        </section>
+
+        <aside>
+            <h3>Waarom is dit belangrijk?</h3>
+            <p>Deze benadering helpt herintreders om op een gestructureerde manier nieuwe vaardigheden te verwerven.</p>
+        </aside>
+        
+    </main>
+
+    <footer>
+        <p>© 2023 Duinrell</p>
+    </footer>
+
+</body>
+</html>
